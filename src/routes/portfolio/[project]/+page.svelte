@@ -3,4 +3,4 @@
 	const project = $page.params.project;
 </script>
 
-<h1>project details{project}</h1>
+<h1>project details {project}</h1>
