@@ -31,7 +31,7 @@
 				<li><a href="/contact">Contact</a></li>
 			</ul>
 		</div>
-		<a href="/" class="btn btn-ghost text-xl">Sense Web </a>
+		<a href="/" class="btn btn-ghost text-xl">nerve web solutions</a>
 	</div>
 	<div class="navbar-center hidden lg:flex">
 		<ul class="menu menu-horizontal px-1">
