@@ -2,10 +2,12 @@
 	<div class="hero min-h-screen bg-base-200">
 		<div class="hero-content text-center">
 			<div class="max-w-5xl">
-				<h1 class="text-6xl font-bold">Welcome to Nerve Web Solutions</h1>
-				<p class="py-6 text-4xl font-light">
-					We are a software solutions agency based in Nairobi, Kenya who specialise in crafting
-					bespoke, digital products for our happy clients.
+				<h1 class="text-5xl font-bold">Welcome to Nerve Web Solutions</h1>
+				<p class="py-6 text-3xl font-light">
+					At Nerve Web Solutions, we believe in the power of digital presence. We specialize in
+					crafting bespoke websites tailored to your business needs. With a focus on creativity,
+					functionality, and user experience, we transform your vision into a captivating online
+					reality.
 				</p>
 			</div>
 		</div>
@@ -14,9 +16,11 @@
 		<div class="flex max-w-5xl text-center w-full justify-center">
 			<div class="text-center py-12">
 				<img src="" alt="logo" />
-				<h1 class="text-4xl font-light">
-					A reknowned software company offering cloud based mobile and web solutions dedicated to
-					making your personal or business success and productivity
+				<h1 class="text-2xl font-light">
+					Nerve Web Solutions is a passionate team of web developers, designers, and digital
+					enthusiasts dedicated to delivering cutting-edge solutions for businesses worldwide.
+					Established with the aim to revolutionize the digital landscape, we bring expertise,
+					innovation, and a fresh perspective to every project.
 				</h1>
 			</div>
 		</div>
