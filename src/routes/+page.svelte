@@ -143,7 +143,7 @@
 				</div>
 			</div>
 		</div>
-		<div class="grid justify-center  py-3">
+		<div class="grid justify-center py-3">
 			<p class="text-2xl">
 				By following this structured and collaborative approach, we ensure that every project we
 				undertake is a success, delivering tangible results and driving your business forward in the
@@ -210,15 +210,53 @@
 				</div>
 			</div>
 		</div>
-
 	</div>
-	<div class="py-2">
-		<div class="grid justify-center  py-3">
-		<h1 class="text-center text-4xl">Contact Us</h1>
-			<p class="text-2xl">
-				Leave us a Message
-			</p>
+	<div class="container mx-auto p-6 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-4">
+		<div class="grid justify-center py-3">
+			<h1 class="text-center text-4xl">Contact Us</h1>
+			<div>
+			<p class="text-2xl">Leave us a Message</p>
+
+				<form method="POST" class="card p-3 bg-secondary grid justify-start gap-1">
+					<label>
+						Full Name
+						<input
+							name="name"
+							type="name"
+							required
+							class="input input-sm"
+							placeholder="Full Name"
+						/>
+					</label>
+					<label>
+						Email
+						<input name="email" type="email" required class="input input-sm" placeholder="Email" />
+					</label>
+					<label>
+						Phone
+						<input name="phone" type="phone" class="input input-sm" placeholder="Phone(Optional)" />
+					</label>
+					<label>
+						Subject
+						<input
+							name="subject"
+							type="text"
+							required
+							class="input input-sm"
+							placeholder="Subject"
+						/>
+					</label>
+					<label>
+						Message
+						<textarea name="message" required class="textarea textarea-xs" placeholder="Message" />
+					</label>
+					<button>Send</button>
+				</form>
+			</div>
+		</div>
+		<div class="grid justify-center py-3">
+			<h1 class="text-center text-4xl">Company</h1>
+			 
 		</div>
 	</div>
-	
 </div>
