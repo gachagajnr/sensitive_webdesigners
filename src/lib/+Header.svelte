@@ -1,3 +1,7 @@
+<script>
+	import Logo from './images/logo.png';
+</script>
+
 <div class="navbar top-0 sticky z-50">
 	<div class="navbar-start">
 		<div class="dropdown">
@@ -8,13 +12,15 @@
 					fill="none"
 					viewBox="0 0 24 24"
 					stroke="currentColor"
-					><path
+				>
+					<path
 						stroke-linecap="round"
 						stroke-linejoin="round"
 						stroke-width="2"
 						d="M4 6h16M4 12h8m-8 6h16"
-					/></svg
-				>
+					/>
+					<!-- <img src={Logo}  width="150px" height="150px"   alt="logo" class="" /> -->
+				</svg>
 			</div>
 			<!-- svelte-ignore a11y-no-noninteractive-tabindex -->
 			<ul
@@ -25,7 +31,7 @@
 				<li>
 					<a href="/articles">Articles</a>
 				</li>
-        <li>
+				<li>
 					<a href="/projects">Projects</a>
 				</li>
 				<li><a href="/contact">Contact</a></li>
@@ -35,14 +41,14 @@
 	</div>
 	<div class="navbar-center hidden lg:flex">
 		<ul class="menu menu-horizontal px-1">
-				<li><a href="/about">About</a></li>
-				<li>
-					<a href="/articles">Articles</a>
-				</li>
-        <li>
-					<a href="/projects">Projects</a>
-				</li>
-				<li><a href="/contact">Contact</a></li>
+			<li><a href="/about">About</a></li>
+			<li>
+				<a href="/articles">Articles</a>
+			</li>
+			<li>
+				<a href="/projects">Projects</a>
+			</li>
+			<li><a href="/contact">Contact</a></li>
 		</ul>
 	</div>
 	<div class="navbar-end">

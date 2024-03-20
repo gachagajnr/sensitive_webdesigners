@@ -1,3 +1,7 @@
+<script>
+	import Logo from '$lib/images/logo.png';
+</script>
+
 <div class="container mx-auto max-w-screen-xl min-h-screen text-center justify-center">
 	<div class="hero min-h-screen bg-base-200">
 		<div class="hero-content text-center">
@@ -13,9 +17,11 @@
 		</div>
 	</div>
 	<div class="w-full grid justify-center">
-		<div class="flex max-w-5xl text-center w-full justify-center">
-			<div class="text-center py-12">
-				<img src="" alt="logo" />
+		<div class="grid max-w-5xl text-center w-full justify-center">
+			<div class="grid text-center justify-center items-center py-12">
+				<div class="flex justify-center">
+					<img src={Logo} width="150px" height="150px" alt="logo" class="" />
+				</div>
 				<h1 class="text-2xl font-light">
 					Nerve Web Solutions is a passionate team of web developers, designers, and digital
 					enthusiasts dedicated to delivering cutting-edge solutions for businesses worldwide.
