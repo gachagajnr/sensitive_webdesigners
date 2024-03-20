@@ -68,14 +68,9 @@
 	</div>
 	<div class="py-12">
 		<h1 class="text-center text-4xl">How We Work</h1>
-
 		<div class="flex flex-row justify-center gap-6 py-6 mx-4">
 			<div class="container mx-auto w-3/4 p-2 md:flex hidden">
-				<img
-					src={Design}
-					class="object-cover rounded-lg  "
-					alt="how we work"
-				/>
+				<img src={Design} class="object-cover rounded-lg" alt="how we work" />
 			</div>
 			<div class=" md:w-full">
 				<ul class="steps steps-vertical">
@@ -155,8 +150,66 @@
 			digital landscape
 		</p>
 	</div>
-	<h1>How We Work</h1>
-	detail our process of working
+	<div class="py-12">
+		<h1 class="text-center text-4xl">Our Focus</h1>
+		<div class="container mx-auto p-6 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
+			<div class="card bg-base-200 shadow-md rounded-lg">
+				<div class="card-body items-center text-center">
+					<h2 class="text-xl card-title mb-2">Corporate Websites</h2>
+					<p>Showcase your brand identity and establish a professional online presence.</p>
+				</div>
+			</div>
+
+			<div class="card bg-base-200 shadow-md rounded-lg">
+				<div class="card-body items-center text-center">
+					<h2 class="text-xl card-title mb-2">E-commerce Platforms</h2>
+					<p>Elevate your online store with our custom e-commerce solutions.</p>
+				</div>
+			</div>
+
+			<div class="card bg-base-200 shadow-md rounded-lg">
+				<div class="card-body items-center text-center">
+					<h2 class="text-xl card-title mb-2">Portfolio Websites</h2>
+					<p>Highlight your work and attract potential clients with a stunning portfolio.</p>
+				</div>
+			</div>
+
+			<div class="card bg-base-200 shadow-md rounded-lg">
+				<div class="card-body items-center text-center">
+					<h2 class="text-xl card-title mb-2">Content Management Systems</h2>
+					<p>Empower your team to manage and update your website effortlessly.</p>
+				</div>
+			</div>
+
+			<div class="card bg-base-200 shadow-md rounded-lg">
+				<div class="card-body items-center text-center">
+					<h2 class="text-xl card-title mb-2">Blog & Magazine Websites</h2>
+					<p>Share your insights, stories, and expertise with the world.</p>
+				</div>
+			</div>
+
+			<div class="card bg-base-200 shadow-md rounded-lg">
+				<div class="card-body items-center text-center">
+					<h2 class="text-xl card-title mb-2">Responsive Websites</h2>
+					<p>Ensure optimal user experience across all devices with our responsive designs.</p>
+				</div>
+			</div>
+
+			<div class="card bg-base-200 shadow-md rounded-lg">
+				<div class="card-body items-center text-center">
+					<h2 class="text-xl card-title mb-2">Custom Web Applications</h2>
+					<p>Transform your unique business requirements into powerful web applications.</p>
+				</div>
+			</div>
+
+			<div class="card bg-base-200 shadow-md rounded-lg">
+				<div class="card-body items-center text-center">
+					<h2 class="text-xl card-title mb-2">Landing Pages & Microsites</h2>
+					<p>Drive targeted traffic and generate leads with our custom landing pages.</p>
+				</div>
+			</div>
+		</div>
+	</div>
 	<h1>our focus</h1>
 	projects we usually work on
 	<h1>contact us</h1>
