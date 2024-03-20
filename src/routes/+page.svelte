@@ -29,6 +29,40 @@
 					innovation, and a fresh perspective to every project.
 				</h1>
 			</div>
+			<div class="flex flex-row flex-wrap gap-4 justify-center">
+				<div class="card w-80 bg-neutral text-neutral-content">
+					<div class="card-body items-center text-center">
+						<h2 class="card-title">How We Work</h2>
+						<p>
+							We prioritize understanding our clients' unique goals, challenges, and target
+							audience. By adopting a client-centric approach, we tailor our solutions to meet their
+							specific needs and exceed their expectations.
+						</p>
+					</div>
+				</div>
+
+				<div class="card w-80 bg-neutral text-neutral-content">
+					<div class="card-body items-center text-center">
+						<h2 class="card-title">Our Focus</h2>
+						<p>
+							Our team of creative designers is committed to pushing the boundaries of web design.
+							We strive to create visually stunning websites that not only attract attention but
+							also engage users and leave a lasting impression.
+						</p>
+					</div>
+				</div>
+				<div class="card w-80 bg-neutral text-neutral-content">
+					<div class="card-body items-center text-center">
+						<h2 class="card-title">Solutions That Deliver</h2>
+						<p>
+							We believe that exceptional user experience is paramount to the success of any
+							website. Through intuitive navigation, seamless functionality, and engaging content,
+							we optimize the user experience to ensure visitors have a positive interaction with
+							our clients' websites.
+						</p>
+					</div>
+				</div>
+			</div>
 		</div>
 	</div>
 	<h1>Intro</h1>
