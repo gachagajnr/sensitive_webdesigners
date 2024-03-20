@@ -143,12 +143,13 @@
 				</div>
 			</div>
 		</div>
-
-		<p class="text-2xl">
-			By following this structured and collaborative approach, we ensure that every project we
-			undertake is a success, delivering tangible results and driving your business forward in the
-			digital landscape
-		</p>
+		<div class="grid justify-center  py-3">
+			<p class="text-2xl">
+				By following this structured and collaborative approach, we ensure that every project we
+				undertake is a success, delivering tangible results and driving your business forward in the
+				digital landscape
+			</p>
+		</div>
 	</div>
 	<div class="py-12">
 		<h1 class="text-center text-4xl">Our Focus</h1>
@@ -209,10 +210,15 @@
 				</div>
 			</div>
 		</div>
+
 	</div>
-	<h1>our focus</h1>
-	projects we usually work on
-	<h1>contact us</h1>
-	form
-	<h1>inquiries</h1>
+	<div class="py-2">
+		<div class="grid justify-center  py-3">
+		<h1 class="text-center text-4xl">Contact Us</h1>
+			<p class="text-2xl">
+				Leave us a Message
+			</p>
+		</div>
+	</div>
+	
 </div>
