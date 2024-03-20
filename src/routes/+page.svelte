@@ -156,56 +156,56 @@
 		<div class="container mx-auto p-6 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
 			<div class="card bg-base-300 shadow-md rounded-lg hover:-translate-y-2 duration-150 hover:bg-base-100">
 				<div class="card-body items-center text-center">
-					<h2 class="text-lg font-bold text-primary card-title mb-2">Corporate Websites</h2>
+					<h2 class="text-lg font-bold  card-title mb-2">Corporate Websites</h2>
 					<p class="">Showcase your brand identity and establish a professional online presence.</p>
 				</div>
 			</div>
 
 			<div class="card bg-base-300 shadow-md rounded-lg hover:-translate-y-2 duration-150 hover:bg-base-100">
 				<div class="card-body items-center text-center">
-					<h2 class="text-lg font-bold text-primary card-title mb-2">E-commerce Platforms</h2>
+					<h2 class="text-lg font-bold  card-title mb-2">E-commerce Platforms</h2>
 					<p class="">Elevate your online store with our custom e-commerce solutions.</p>
 				</div>
 			</div>
 
 			<div class="card bg-base-300 shadow-md rounded-lg hover:-translate-y-2 duration-150 hover:bg-base-100">
 				<div class="card-body items-center text-center">
-					<h2 class="text-lg font-bold text-primary card-title mb-2">Portfolio Websites</h2>
+					<h2 class="text-lg font-bold   card-title mb-2">Portfolio Websites</h2>
 					<p class="">Highlight your work and attract potential clients with a stunning portfolio.</p>
 				</div>
 			</div>
 
 			<div class="card bg-base-300 shadow-md rounded-lg hover:-translate-y-2 duration-150 hover:bg-base-100">
 				<div class="card-body items-center text-center">
-					<h2 class="text-lg font-bold text-primary card-title mb-2">Content Management Systems</h2>
+					<h2 class="text-lg font-bold  card-title mb-2">Content Management Systems</h2>
 					<p class="">Empower your team to manage and update your website effortlessly.</p>
 				</div>
 			</div>
 
 			<div class="card bg-base-300 shadow-md rounded-lg hover:-translate-y-2 duration-150 hover:bg-base-100">
 				<div class="card-body items-center text-center">
-					<h2 class="text-lg font-bold text-primary card-title mb-2">Blog & Magazine Websites</h2>
+					<h2 class="text-lg font-bold  card-title mb-2">Blog & Magazine Websites</h2>
 					<p class="">Share your insights, stories, and expertise with the world.</p>
 				</div>
 			</div>
 
 			<div class="card bg-base-300 shadow-md rounded-lg hover:-translate-y-2 duration-150 hover:bg-base-100">
 				<div class="card-body items-center text-center">
-					<h2 class="text-lg font-bold text-primary card-title mb-2">Responsive Websites</h2>
+					<h2 class="text-lg font-bold  card-title mb-2">Responsive Websites</h2>
 					<p class="">Ensure optimal user experience across all devices with our responsive designs.</p>
 				</div>
 			</div>
 
 			<div class="card bg-base-300 shadow-md rounded-lg hover:-translate-y-2 duration-150 hover:bg-base-100">
 				<div class="card-body items-center text-center">
-					<h2 class="text-lg font-bold text-primary card-title mb-2">Custom Web Applications</h2>
+					<h2 class="text-lg font-bold  card-title mb-2">Custom Web Applications</h2>
 					<p class="">Transform your unique business requirements into powerful web applications.</p>
 				</div>
 			</div>
 
 			<div class="card bg-base-300 shadow-md rounded-lg hover:-translate-y-2 duration-150 hover:bg-base-100">
 				<div class="card-body items-center text-center">
-					<h2 class="text-lg font-bold text-primary card-title mb-2">Landing Pages & Microsites</h2>
+					<h2 class="text-lg font-bold  card-title mb-2">Landing Pages & Microsites</h2>
 					<p class="">Drive targeted traffic and generate leads with our custom landing pages.</p>
 				</div>
 			</div>
