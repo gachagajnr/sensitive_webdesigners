@@ -151,7 +151,7 @@
 			</p>
 		</div>
 	</div>
-	<div id="focus" class="py-12">
+	<div class="py-12">
 		<h1 class="text-center text-4xl">Our Focus</h1>
 		<div class="container mx-auto p-6 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
 			<div class="card bg-base-200 shadow-md rounded-lg">
@@ -211,7 +211,7 @@
 			</div>
 		</div>
 	</div>
-	<div id="contact">
+	<div>
 		<h1 class="text-center text-4xl">Contact Us</h1>
 		<p class="text-2xl">Leave us a Message</p>
 

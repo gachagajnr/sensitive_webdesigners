@@ -29,12 +29,12 @@
 			>
 				<li><a href="/">About</a></li>
 				<li>
-					<a href="#focus">Our Focus</a>
+					<a href="/focus">Our Focus</a>
 				</li>
 				<li>
 					<a href="/projects">Projects</a>
 				</li>
-				<li><a href="#contact">Contact</a></li>
+				<li><a href="/contact">Contact</a></li>
 			</ul>
 		</div>
 		<a href="/" class="btn btn-ghost text-xl">nerve web solutions</a>
@@ -43,12 +43,12 @@
 		<ul class="menu menu-horizontal px-1">
 			<li><a href="/">About</a></li>
 			<li>
-				<a href="#focus">Our Focus</a>
+				<a href="/focus">Our Focus</a>
 			</li>
 			<li>
 				<a href="/projects">Projects</a>
 			</li>
-			<li><a href="#contact">Contact</a></li>
+			<li><a href="/contact">Contact</a></li>
 		</ul>
 	</div>
 	<div class="navbar-end">
