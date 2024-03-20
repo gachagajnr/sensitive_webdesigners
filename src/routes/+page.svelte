@@ -329,6 +329,7 @@
 					</svg>
 					<p class="join-item font-semibold">Follow on X</p>
 				</div>
+				<div class="divider divider-primary"></div>
 				<div class="join gap-3 cursor-pointer">
 					<svg
 						class="w-6 h-6 text-gray-800"
