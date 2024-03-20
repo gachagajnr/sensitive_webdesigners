@@ -2,7 +2,7 @@
 	<div class="hero min-h-screen bg-base-200">
 		<div class="hero-content text-center">
 			<div class="max-w-5xl">
- 				<h1 class="text-6xl font-bold">A Warm Welcome to the Nerve Web Solutions</h1>
+ 				<h1 class="text-6xl font-bold">Welcome to the Nerve Web Solutions</h1>
 				<p class="py-6 text-4xl font-light">
 					We are a software solutions agency based in Nairobi, Kenya who specialise in crafting
 					bespoke, digital products for our happy clients.
