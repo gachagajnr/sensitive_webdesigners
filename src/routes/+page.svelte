@@ -9,9 +9,9 @@
 			 
 			<img src={Design} alt="Nerves"  class="max-w-xl lg:flex hidden"/>
 			<div class="text-center lg:text-center p-6">
-				<h1 class="text-4xl font-bold text-secondary">Welcome to Nerves Web Solutions</h1>
+				<h1 class="text-4xl font-bold text-secondary">Welcome to Nerves Solutions</h1>
 				<p class="p-6 text-xl text-pretty">
-					At Nerves Web Solutions, we believe in the power of digital presence. We specialize in
+					At Nerves Solutions, we believe in the power of digital presence. We specialize in
 					crafting bespoke websites tailored to your business needs. With a focus on creativity,
 					functionality, and user experience, we transform your vision into a captivating online
 					reality.
@@ -221,6 +221,17 @@
 				class="card w-96 bg-error shadow-md bg-opacity-15 cursor-pointer rounded-2xl hover:-translate-y-2 duration-150 hover:bg-accent-content"
 			>
 				<div class="card-body text-start">
+					<p class="">Android and IOS mobile applications for your business needs.</p>
+					<div class="card-actions justify-end">
+						<button class="btn btn-sm btn-outline">Get Quote</button>
+					</div>
+					<h2 class="card-title font-light text-secondary">Mobile Applications</h2>
+				</div>
+			</div>
+			<div
+				class="card w-96 bg-error shadow-md bg-opacity-15 cursor-pointer rounded-2xl hover:-translate-y-2 duration-150 hover:bg-accent-content"
+			>
+				<div class="card-body text-start">
 					<p class="">Showcase your brand identity and establish a professional online presence.</p>
 					<div class="card-actions justify-end">
 						<button class="btn btn-sm btn-outline">Get Quote</button>
@@ -289,7 +300,7 @@
 					<div class="card-actions justify-end">
 						<button class="btn btn-sm btn-outline">Get Quote</button>
 					</div>
-					<h2 class="card-title font-light text-secondary">Custom Web Applications</h2>
+					<h2 class="card-title font-light text-secondary">Custom  Applications</h2>
 				</div>
 			</div>
 
@@ -468,11 +479,11 @@
 							/>
 						</svg>
 
-						<p class="join-item font-semibold">nervewebsolutions@gmail.com</p>
+						<p class="join-item font-semibold">nervesolutions@gmail.com</p>
 					</div>
 					<div class="card grid gap-1 justify-center text-start">
 						<img src={Logo} width={60} height={60} alt="logo" class="join-item" />
-						<h2 class="text-xl font-semibold text-primary">Nerve Web Solutions</h2>
+						<h2 class="text-xl font-semibold text-primary">Nerve Solutions</h2>
 
 						<h2 class="font-bold text-sm">KIUU Containers</h2>
 						<h2 class="font-bold text-sm">Nairobi Kenya</h2>

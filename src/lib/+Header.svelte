@@ -37,7 +37,7 @@
 				<li><a class="font-bold" href="/contact">Contact Us</a></li>
 			</ul>
 		</div>
-		<a href="/" class="btn btn-ghost text-xl text-secondary font-bold">nerves web solutions</a>
+		<a href="/" class="btn btn-ghost text-xl text-secondary font-bold">Nerves Solutions</a>
 	</div>
 	<div class="navbar-center hidden lg:flex">
 		<ul class="menu menu-horizontal px-1">
