@@ -4,11 +4,15 @@
 </script>
 
 <div class="container mx-auto max-w-screen-xl min-h-screen text-center justify-center">
-	<div class="hero min-h-screen bg-base-200">
-		<div class="hero-content text-center">
-			<div class="max-w-5xl">
-				<h1 class="text-5xl font-bold">Welcome to Nerve Web Solutions</h1>
-				<p class="py-6 text-3xl font-light">
+	<div class="hero min-h-screen  ">
+		<div class="hero-content flex-col lg:flex-row-reverse">
+			
+			<div class="  shrink-0 w-full max-w-md bg-base-100 rounded-lg shadow-2xl lg:flex hidden   ">
+				<img src={Logo} alt="Nerve" class="object-cover">
+			</div>
+			<div class="text-center lg:text-center p-6">
+				<h1 class="text-4xl font-bold text-secondary">Welcome to Nerve Web Solutions</h1>
+				<p class="p-6 text-xl text-pretty  ">
 					At Nerve Web Solutions, we believe in the power of digital presence. We specialize in
 					crafting bespoke websites tailored to your business needs. With a focus on creativity,
 					functionality, and user experience, we transform your vision into a captivating online
@@ -17,6 +21,7 @@
 			</div>
 		</div>
 	</div>
+	 
 	<div class="w-full grid justify-center">
 		<div class="grid max-w-5xl text-center w-full justify-center">
 			<div class="grid text-center justify-center items-center py-12">
@@ -154,58 +159,80 @@
 	<div class="py-12">
 		<h1 class="text-center text-4xl">Our Focus</h1>
 		<div class="container mx-auto p-6 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
-			<div class="card bg-base-300 shadow-md rounded-lg hover:-translate-y-2 duration-150 hover:bg-base-100">
+			<div
+				class="card bg-base-300 shadow-md rounded-lg hover:-translate-y-2 duration-150 hover:bg-base-100"
+			>
 				<div class="card-body items-center text-center">
-					<h2 class="text-lg font-bold  card-title mb-2">Corporate Websites</h2>
+					<h2 class="text-lg font-bold card-title mb-2">Corporate Websites</h2>
 					<p class="">Showcase your brand identity and establish a professional online presence.</p>
 				</div>
 			</div>
 
-			<div class="card bg-base-300 shadow-md rounded-lg hover:-translate-y-2 duration-150 hover:bg-base-100">
+			<div
+				class="card bg-base-300 shadow-md rounded-lg hover:-translate-y-2 duration-150 hover:bg-base-100"
+			>
 				<div class="card-body items-center text-center">
-					<h2 class="text-lg font-bold  card-title mb-2">E-commerce Platforms</h2>
+					<h2 class="text-lg font-bold card-title mb-2">E-commerce Platforms</h2>
 					<p class="">Elevate your online store with our custom e-commerce solutions.</p>
 				</div>
 			</div>
 
-			<div class="card bg-base-300 shadow-md rounded-lg hover:-translate-y-2 duration-150 hover:bg-base-100">
+			<div
+				class="card bg-base-300 shadow-md rounded-lg hover:-translate-y-2 duration-150 hover:bg-base-100"
+			>
 				<div class="card-body items-center text-center">
-					<h2 class="text-lg font-bold   card-title mb-2">Portfolio Websites</h2>
-					<p class="">Highlight your work and attract potential clients with a stunning portfolio.</p>
+					<h2 class="text-lg font-bold card-title mb-2">Portfolio Websites</h2>
+					<p class="">
+						Highlight your work and attract potential clients with a stunning portfolio.
+					</p>
 				</div>
 			</div>
 
-			<div class="card bg-base-300 shadow-md rounded-lg hover:-translate-y-2 duration-150 hover:bg-base-100">
+			<div
+				class="card bg-base-300 shadow-md rounded-lg hover:-translate-y-2 duration-150 hover:bg-base-100"
+			>
 				<div class="card-body items-center text-center">
-					<h2 class="text-lg font-bold  card-title mb-2">Content Management Systems</h2>
+					<h2 class="text-lg font-bold card-title mb-2">Content Management Systems</h2>
 					<p class="">Empower your team to manage and update your website effortlessly.</p>
 				</div>
 			</div>
 
-			<div class="card bg-base-300 shadow-md rounded-lg hover:-translate-y-2 duration-150 hover:bg-base-100">
+			<div
+				class="card bg-base-300 shadow-md rounded-lg hover:-translate-y-2 duration-150 hover:bg-base-100"
+			>
 				<div class="card-body items-center text-center">
-					<h2 class="text-lg font-bold  card-title mb-2">Blog & Magazine Websites</h2>
+					<h2 class="text-lg font-bold card-title mb-2">Blog & Magazine Websites</h2>
 					<p class="">Share your insights, stories, and expertise with the world.</p>
 				</div>
 			</div>
 
-			<div class="card bg-base-300 shadow-md rounded-lg hover:-translate-y-2 duration-150 hover:bg-base-100">
+			<div
+				class="card bg-base-300 shadow-md rounded-lg hover:-translate-y-2 duration-150 hover:bg-base-100"
+			>
 				<div class="card-body items-center text-center">
-					<h2 class="text-lg font-bold  card-title mb-2">Responsive Websites</h2>
-					<p class="">Ensure optimal user experience across all devices with our responsive designs.</p>
+					<h2 class="text-lg font-bold card-title mb-2">Responsive Websites</h2>
+					<p class="">
+						Ensure optimal user experience across all devices with our responsive designs.
+					</p>
 				</div>
 			</div>
 
-			<div class="card bg-base-300 shadow-md rounded-lg hover:-translate-y-2 duration-150 hover:bg-base-100">
+			<div
+				class="card bg-base-300 shadow-md rounded-lg hover:-translate-y-2 duration-150 hover:bg-base-100"
+			>
 				<div class="card-body items-center text-center">
-					<h2 class="text-lg font-bold  card-title mb-2">Custom Web Applications</h2>
-					<p class="">Transform your unique business requirements into powerful web applications.</p>
+					<h2 class="text-lg font-bold card-title mb-2">Custom Web Applications</h2>
+					<p class="">
+						Transform your unique business requirements into powerful web applications.
+					</p>
 				</div>
 			</div>
 
-			<div class="card bg-base-300 shadow-md rounded-lg hover:-translate-y-2 duration-150 hover:bg-base-100">
+			<div
+				class="card bg-base-300 shadow-md rounded-lg hover:-translate-y-2 duration-150 hover:bg-base-100"
+			>
 				<div class="card-body items-center text-center">
-					<h2 class="text-lg font-bold  card-title mb-2">Landing Pages & Microsites</h2>
+					<h2 class="text-lg font-bold card-title mb-2">Landing Pages & Microsites</h2>
 					<p class="">Drive targeted traffic and generate leads with our custom landing pages.</p>
 				</div>
 			</div>
