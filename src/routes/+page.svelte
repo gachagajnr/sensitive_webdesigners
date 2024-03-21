@@ -162,7 +162,7 @@
 								/></svg
 							>
 						</div>
-						<div class="timeline-end  border border-accent timeline-box">
+						<div class="timeline-end border border-accent timeline-box">
 							<h1 class="text-xl text-info">Agile Development</h1>
 
 							We embrace agile development methodologies to ensure flexibility and adaptability
@@ -208,157 +208,178 @@
 			</p>
 		</div>
 	</div>
-	<div class="mt-6 p-6">
-		<h1 class="text-center text-secondary text-4xl">Our Focus</h1>
-		<div class="container mx-auto p-6 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
+	<div class="divider divider-neutral"></div>
+	<div class="mt-6 grid justify-center items-center">
+		<h1 class="text-center text-primary text-4xl">Our Focus</h1>
+		<div
+			class="  p-6 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 justify-center items-center gap-4"
+		>
 			<div
-				class="card bg-base-300 shadow-md rounded-lg hover:-translate-y-2 duration-150 hover:bg-base-100"
+				class="card w-96 bg-error shadow-md bg-opacity-15 cursor-pointer rounded-2xl hover:-translate-y-2 duration-150 hover:bg-accent-content"
 			>
-				<div class="card-body items-center text-center">
-					<h2 class="text-lg font-bold card-title mb-2">Corporate Websites</h2>
+				<div class="card-body text-start">
 					<p class="">Showcase your brand identity and establish a professional online presence.</p>
+					<div class="card-actions justify-end">
+						<button class="btn btn-sm btn-outline">Get Quote</button>
+					</div>
+					<h2 class="card-title font-light text-secondary">Corporate Websites</h2>
 				</div>
 			</div>
 
 			<div
-				class="card bg-base-300 shadow-md rounded-lg hover:-translate-y-2 duration-150 hover:bg-base-100"
+				class="card w-96 bg-warning-content bg-opacity-15 cursor-pointer rounded-2xl hover:-translate-y-2 duration-150 hover:bg-accent-content"
 			>
-				<div class="card-body items-center text-center">
-					<h2 class="text-lg font-bold card-title mb-2">E-commerce Platforms</h2>
+				<div class="card-body text-start">
 					<p class="">Elevate your online store with our custom e-commerce solutions.</p>
+					<div class="card-actions justify-end">
+						<button class="btn btn-sm btn-outline">Get Quote</button>
+					</div>
+					<h2 class="card-title font-light text-secondary">E-commerce Platforms</h2>
 				</div>
 			</div>
 
 			<div
-				class="card bg-base-300 shadow-md rounded-lg hover:-translate-y-2 duration-150 hover:bg-base-100"
+				class="card w-96 bg-primary-content bg-opacity-55 cursor-pointer rounded-2xl hover:-translate-y-2 duration-150 hover:bg-accent-content"
 			>
-				<div class="card-body items-center text-center">
-					<h2 class="text-lg font-bold card-title mb-2">Portfolio Websites</h2>
+				<div class="card-body text-start">
 					<p class="">
 						Highlight your work and attract potential clients with a stunning portfolio.
 					</p>
+					<div class="card-actions justify-end">
+						<button class="btn btn-sm btn-outline">Get Quote</button>
+					</div>
+					<h2 class="card-title font-light text-secondary">Portfolio Websites</h2>
 				</div>
 			</div>
 
 			<div
-				class="card bg-base-300 shadow-md rounded-lg hover:-translate-y-2 duration-150 hover:bg-base-100"
+				class="card w-96 bg-info-content bg-opacity-15 cursor-pointer rounded-2xl hover:-translate-y-2 duration-150 hover:bg-accent-content"
 			>
-				<div class="card-body items-center text-center">
-					<h2 class="text-lg font-bold card-title mb-2">Content Management Systems</h2>
+				<div class="card-body text-start">
 					<p class="">Empower your team to manage and update your website effortlessly.</p>
+					<div class="card-actions justify-end">
+						<button class="btn btn-sm btn-outline">Get Quote</button>
+					</div>
+					<h2 class="card-title font-light text-secondary">Content Management Systems</h2>
 				</div>
 			</div>
 
 			<div
-				class="card bg-base-300 shadow-md rounded-lg hover:-translate-y-2 duration-150 hover:bg-base-100"
+				class="card w-96 bg-accent bg-opacity-15 cursor-pointer rounded-2xl hover:-translate-y-2 duration-150 hover:bg-accent-content"
 			>
-				<div class="card-body items-center text-center">
-					<h2 class="text-lg font-bold card-title mb-2">Blog & Magazine Websites</h2>
+				<div class="card-body text-start">
 					<p class="">Share your insights, stories, and expertise with the world.</p>
+					<div class="card-actions justify-end">
+						<button class="btn btn-sm btn-outline">Get Quote</button>
+					</div>
+					<h2 class="card-title font-light text-secondary">Blog & Magazine Websites</h2>
 				</div>
 			</div>
 
 			<div
-				class="card bg-base-300 shadow-md rounded-lg hover:-translate-y-2 duration-150 hover:bg-base-100"
+				class="card w-96 bg-secondary-content bg-opacity-15 cursor-pointer rounded-2xl hover:-translate-y-2 duration-150 hover:bg-accent-content"
 			>
-				<div class="card-body items-center text-center">
-					<h2 class="text-lg font-bold card-title mb-2">Responsive Websites</h2>
-					<p class="">
-						Ensure optimal user experience across all devices with our responsive designs.
-					</p>
-				</div>
-			</div>
-
-			<div
-				class="card bg-base-300 shadow-md rounded-lg hover:-translate-y-2 duration-150 hover:bg-base-100"
-			>
-				<div class="card-body items-center text-center">
-					<h2 class="text-lg font-bold card-title mb-2">Custom Web Applications</h2>
+				<div class="card-body text-start">
 					<p class="">
 						Transform your unique business requirements into powerful web applications.
 					</p>
+					<div class="card-actions justify-end">
+						<button class="btn btn-sm btn-outline">Get Quote</button>
+					</div>
+					<h2 class="card-title font-light text-secondary">Custom Web Applications</h2>
 				</div>
 			</div>
 
 			<div
-				class="card bg-base-300 shadow-md rounded-lg hover:-translate-y-2 duration-150 hover:bg-base-100"
+				class="card w-96 bg-success bg-opacity-15 cursor-pointer rounded-2xl hover:-translate-y-2 duration-150 hover:bg-accent-content"
 			>
-				<div class="card-body items-center text-center">
-					<h2 class="text-lg font-bold card-title mb-2">Landing Pages & Microsites</h2>
+				<div class="card-body text-start">
 					<p class="">Drive targeted traffic and generate leads with our custom landing pages.</p>
+					<div class="card-actions justify-end">
+						<button class="btn btn-sm btn-outline">Get Quote</button>
+					</div>
+					<h2 class="card-title font-light text-secondary">Landing Pages & Microsites</h2>
 				</div>
 			</div>
 		</div>
+		<div class="py-8">
+			<a
+				href="/projects"
+				class="btn btn-secondary text-white hover:-translate-y-1 hover:bg-primary hover:text-secondary duration-150"
+				>View Portfolio Projects</a
+			>
+		</div>
 	</div>
-	<div>
-		<h1 class="text-center text-4xl">Contact Us</h1>
-		<p class="text-2xl">Leave us a Message</p>
+	<div class="divider divider-neutral"></div>
+	<div class=" p-6 shadow-2xl mb-6">
+		<!-- <h1 class="text-center text-4xl">Contact Us</h1> -->
+		<p class="text-3xl">Leave us a Message</p>
 		<div class="container mx-auto p-6 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-4">
-			<div class="  grid justify-end p-2">
+			<div class="  grid justify-end p-4">
 				<form
 					method="POST"
-					class="card shadow-lg rounded-lg bg-base-100 p-4 grid justify-start gap-1"
+					class="card shadow-lg rounded-lg bg-base-300 p-4 grid justify-start gap-y-1.5"
 				>
 					<label class="text-sm text-start">
-						<span class="font-semibold">Full Name </span>
+						<span class="font-semibold text-sm">Full Name </span>
 						<input
 							name="name"
 							type="name"
 							required
-							class="input input-primary input-sm w-full"
+							class="input input-sm w-full"
 							placeholder="Full Name"
 						/>
 					</label>
 					<label class="text-sm text-start">
-						<span class="font-semibold">Email address </span>
+						<span class="font-semibold text-sm">Email address </span>
 
 						<input
 							name="email"
 							type="email"
 							required
-							class="input input-primary input-sm w-full"
+							class="input input-sm w-full"
 							placeholder="Email"
 						/>
 					</label>
 					<label class="text-sm text-start">
-						<span class="font-semibold">Phone </span>
+						<span class="font-semibold text-sm">Phone </span>
 						<input
 							name="phone"
 							type="phone"
-							class="input input-primary input-sm w-full"
+							class="input input-sm w-full"
 							placeholder="Phone(Optional)"
 						/>
 					</label>
 					<label class="text-sm text-start">
-						<span class="font-semibold">Subject </span>
+						<span class="font-semibold text-sm">Subject </span>
 
 						<input
 							name="subject"
 							type="text"
 							required
-							class="input input-primary input-sm w-full"
+							class="input input-sm w-full"
 							placeholder="Subject"
 						/>
 					</label>
 					<label class="text-sm text-start">
-						<span class="font-semibold">Message </span>
+						<span class="font-semibold text-sm">Message </span>
 
 						<textarea
 							name="message"
 							required
 							rows="4"
-							class="textarea textarea-primary w-full textarea-xs"
+							class="textarea w-full textarea-xs"
 							placeholder="Message"
 						/>
 					</label>
-					<button class="btn btn-primary w-full">Send</button>
+					<button class="btn btn-secondary w-full">Send</button>
 				</form>
 			</div>
 			<div class="justify-center items-center gap-2 p-2">
 				<div class="card p-3 grid gap-3 justify-start">
 					<div class="join gap-3 cursor-pointer">
 						<svg
-							class="w-6 h-6 text-gray-800"
+							class="w-6 h-6 text-secondary"
 							aria-hidden="true"
 							xmlns="http://www.w3.org/2000/svg"
 							width="24"
@@ -379,7 +400,7 @@
 
 					<div class="join gap-3 cursor-pointer">
 						<svg
-							class="w-6 h-6 text-gray-800"
+							class="w-6 h-6 text-secondary"
 							aria-hidden="true"
 							xmlns="http://www.w3.org/2000/svg"
 							width="24"
@@ -399,7 +420,7 @@
 
 					<div class="join gap-3 cursor-pointer">
 						<svg
-							class="w-6 h-6 text-gray-800"
+							class="w-6 h-6 text-secondary"
 							aria-hidden="true"
 							xmlns="http://www.w3.org/2000/svg"
 							fill="currentColor"
@@ -414,7 +435,7 @@
 					</div>
 					<div class="join gap-3 cursor-pointer">
 						<svg
-							class="w-6 h-6 join-item text-gray-800"
+							class="w-6 h-6 join-item text-secondary"
 							aria-hidden="true"
 							xmlns="http://www.w3.org/2000/svg"
 							width="24"
@@ -431,7 +452,7 @@
 					<div class="divider divider-primary"></div>
 					<div class="join gap-3 cursor-pointer">
 						<svg
-							class="w-6 h-6 text-gray-800"
+							class="w-6 h-6 text-secondary"
 							aria-hidden="true"
 							xmlns="http://www.w3.org/2000/svg"
 							width="24"
@@ -448,7 +469,7 @@
 					</div>
 					<div class="card grid gap-1 justify-center text-start">
 						<img src={Logo} width={60} height={60} alt="logo" class="join-item" />
-						<h2 class="text-xl font-semibold text-neutral">Nerve Web Solutions</h2>
+						<h2 class="text-xl font-semibold text-primary">Nerve Web Solutions</h2>
 
 						<h2 class="font-bold text-sm">KIUU Containers</h2>
 						<h2 class="font-bold text-sm">Nairobi Kenya</h2>
