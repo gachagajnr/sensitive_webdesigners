@@ -34,21 +34,21 @@
 				<li>
 					<a class="font-bold" href="/projects">Projects</a>
 				</li>
-				<li><a class="font-bold" href="/contact">Contact</a></li>
+				<li><a class="font-bold" href="/contact">Contact Us</a></li>
 			</ul>
 		</div>
 		<a href="/" class="btn btn-ghost text-xl text-secondary font-bold">nerves web solutions</a>
 	</div>
 	<div class="navbar-center hidden lg:flex">
 		<ul class="menu menu-horizontal px-1">
-			<li><a class="font-bold" href="/">About</a></li>
+			<li><a class="font-bold " href="/">About</a></li>
 			<li>
-				<a class="font-bold" href="/focus">Our Focus</a>
+				<a class="font-bold " href="/focus">Our Focus</a>
 			</li>
 			<li>
-				<a class="font-bold" href="/projects">Projects</a>
+				<a class="font-bold " href="/projects">Projects</a>
 			</li>
-			<li><a class="font-bold" href="/contact">Contact</a></li>
+			<li><a class="font-bold " href="/contact">Contact Us</a></li>
 		</ul>
 	</div>
 	<div class="navbar-end">
