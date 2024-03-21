@@ -1,22 +1,25 @@
 <script>
 	import Logo from '$lib/images/logo.png';
-	import Design from '$lib/images/wak.jpg';
+	import Design from '$lib/images/dren.png';
 </script>
 
-<div class="container mx-auto max-w-screen-xl min-h-screen text-center justify-center">
+<div class="container mx-auto max-w-screen-xl  text-center justify-center">
 	<div class="hero min-h-screen">
 		<div class="hero-content flex-col lg:flex-row-reverse">
-			<div class="  shrink-0 w-full max-w-md bg-base-100 rounded-lg shadow-2xl lg:flex hidden">
-				<img src={Logo} alt="Nerve" class="object-cover" />
-			</div>
+			 
+			<img src={Design} alt="Nerves"  class="max-w-xl lg:flex hidden"/>
 			<div class="text-center lg:text-center p-6">
-				<h1 class="text-4xl font-bold text-secondary">Welcome to Nerve Web Solutions</h1>
+				<h1 class="text-4xl font-bold text-secondary">Welcome to Nerves Web Solutions</h1>
 				<p class="p-6 text-xl text-pretty">
-					At Nerve Web Solutions, we believe in the power of digital presence. We specialize in
+					At Nerves Web Solutions, we believe in the power of digital presence. We specialize in
 					crafting bespoke websites tailored to your business needs. With a focus on creativity,
 					functionality, and user experience, we transform your vision into a captivating online
 					reality.
 				</p>
+				<div class="flex flex-row justify-center gap-2">
+					<button class="btn btn-info">Get A Free Quote</button>
+					<button class="btn btn-secondary text-white">View Completed Projects</button>
+				</div>
 			</div>
 		</div>
 	</div>
