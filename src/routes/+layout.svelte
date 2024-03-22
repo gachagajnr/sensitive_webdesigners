@@ -13,11 +13,11 @@
 	</div>
 	<div>
 		<div class="grid justify-start text-start">
-			<p class="text-lg text-secondary">Nerve Solutions</p>
+			<p class="text-lg text-secondary">Nerves Solutions</p>
 			<p class=" ">1st Floor Containers Hse</p>
 			<p class=" ">Kahawa Wendani</p>
 			<p class=" ">Nairobi Kenya</p>
-			<p class=" ">0706335880</p>
+			<p class=" ">+254-706-335-880</p>
 		</div>
 	</div>
 	<div class="flex flex-col gap-2">
