@@ -48,13 +48,13 @@
 					</p>
 				</div>
 			</div>
-			<div class="py-8 justify-center items-center">
-				<a
-					href="/projects"
-					class="btn btn-secondary hover:btn-primary hover:text-secondary "
-					>View Portfolio Projects</a
-				>
-			</div>
 		</div>
+        <div class="grid py-8 justify-center items-center">
+            <a
+                href="/projects"
+                class="btn btn-secondary hover:btn-primary hover:text-secondary "
+                >View Portfolio Projects</a
+            >
+        </div>
 	</div>
 </div>

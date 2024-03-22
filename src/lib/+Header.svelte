@@ -2,7 +2,7 @@
 	import Logo from './images/logo.png';
 </script>
 
-<div class="navbar bg-base-100 top-0 sticky z-50">
+<div class="navbar bg-base-200 top-0 sticky z-50">
 	<div class="navbar-start">
 		<div class="dropdown">
 			<div tabindex="0" role="button" class="btn btn-ghost lg:hidden">
