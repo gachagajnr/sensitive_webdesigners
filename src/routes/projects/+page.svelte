@@ -9,7 +9,7 @@
 		</div>
 		<div class="flex flex-row flex-wrap justify-center p-6 gap-4 items-center">
 			<div
-				class="card w-96 border border-secondary hover:bg-secondary-content hover:bg-opacity-30 cursor-pointer"
+				class="card w-96 border border-secondary hover:bg-primary-content hover:bg-opacity-30 cursor-pointer"
 			>
 				<div class="card-body items-start">
 					<h2 class="card-title">MahaliKenya Mobile App</h2>
@@ -25,7 +25,7 @@
 				</div>
 			</div>
 			<div
-				class="card w-96 border border-secondary hover:bg-secondary-content hover:bg-opacity-40 cursor-pointer"
+				class="card w-96 border border-secondary hover:bg-primary-content hover:bg-opacity-40 cursor-pointer"
 			>
 				<div class="card-body items-start">
 					<h2 class="card-title">ookulima</h2>
@@ -38,7 +38,7 @@
 				</div>
 			</div>
 			<div
-				class="card w-96 border border-secondary hover:bg-secondary-content hover:bg-opacity-30 cursor-pointer"
+				class="card w-96 border border-secondary hover:bg-primary-content hover:bg-opacity-30 cursor-pointer"
 			>
 				<div class="card-body items-start">
 					<h2 class="card-title">Mahali Kenya Landing Page</h2>
@@ -51,7 +51,7 @@
 				</div>
 			</div>
 			<div
-				class="card w-96 border border-secondary hover:bg-secondary-content hover:bg-opacity-30 cursor-pointer"
+				class="card w-96 border border-secondary hover:bg-primary-content hover:bg-opacity-30 cursor-pointer"
 			>
 				<div class="card-body items-start">
 					<h2 class="card-title">Michoro Art</h2>
@@ -64,7 +64,7 @@
 				</div>
 			</div>
 			<div
-				class="card w-96 border border-secondary hover:bg-secondary-content hover:bg-opacity-30 cursor-pointer"
+				class="card w-96 border border-secondary hover:bg-primary-content hover:bg-opacity-30 cursor-pointer"
 			>
 				<div class="card-body items-start">
 					<h2 class="card-title">Wirerent</h2>
@@ -75,7 +75,7 @@
 				</div>
 			</div>
 			<div
-				class="card w-96 border border-secondary hover:bg-secondary-content hover:bg-opacity-30 cursor-pointer"
+				class="card w-96 border border-secondary hover:bg-primary-content hover:bg-opacity-30 cursor-pointer"
 			>
 				<div class="card-body items-start">
 					<h2 class="card-title">Rentaspace</h2>
@@ -88,7 +88,7 @@
 				</div>
 			</div>
 			<div
-				class="card w-96 border border-secondary hover:bg-secondary-content hover:bg-opacity-30 cursor-pointer"
+				class="card w-96 border border-secondary hover:bg-primary-content hover:bg-opacity-30 cursor-pointer"
 			>
 				<div class="card-body items-start">
 					<h2 class="card-title">Nerve Solutions</h2>
