@@ -1,15 +1,15 @@
 <div class="container mx-auto">
-	<div class="grid mt-16 justify-center items-center gap-4">
-		<div class="grid justify-center max-w-5xl">
+	<div class="flex flex-col mx-4 mt-16 justify-center   gap-4">
+		<div class="flex flex-col items-start justify-start   ">
 			<h1 class="text-4xl text-primary font-bold">Projects We've worked on</h1>
 			<p class="p-4  text-xl">
 				At Nerve Solutions, we take pride in the diverse range of projects we've had the privilege
 				to work on. Here are a few examples of the impactful projects we've successfully delivered:
 			</p>
 		</div>
-		<div class="flex flex-row flex-wrap justify-center p-6 gap-4 items-center">
+		<div class="flex flex-row flex-wrap md:grid-rows-2 justify-center p-6 gap-4 items-center">
 			<div
-				class="card w-96 border border-secondary hover:bg-primary-content hover:bg-opacity-30 cursor-pointer"
+				class="card w-96 border border-neutral  hover:bg-primary-content  cursor-pointer"
 			>
 				<div class="card-body items-start">
 					<h2 class="card-title">MahaliKenya Mobile App</h2>
@@ -25,7 +25,7 @@
 				</div>
 			</div>
 			<div
-				class="card w-96 border border-secondary hover:bg-primary-content hover:bg-opacity-40 cursor-pointer"
+				class="card w-96 border border-neutral  hover:bg-primary-content  cursor-pointer"
 			>
 				<div class="card-body items-start">
 					<h2 class="card-title">ookulima</h2>
@@ -38,7 +38,7 @@
 				</div>
 			</div>
 			<div
-				class="card w-96 border border-secondary hover:bg-primary-content hover:bg-opacity-30 cursor-pointer"
+				class="card w-96 border border-neutral hover:bg-primary-content  cursor-pointer"
 			>
 				<div class="card-body items-start">
 					<h2 class="card-title">Mahali Kenya Landing Page</h2>
@@ -51,7 +51,7 @@
 				</div>
 			</div>
 			<div
-				class="card w-96 border border-secondary hover:bg-primary-content hover:bg-opacity-30 cursor-pointer"
+				class="card w-96 border border-neutral  hover:bg-primary-content  cursor-pointer"
 			>
 				<div class="card-body items-start">
 					<h2 class="card-title">Michoro Art</h2>
@@ -64,7 +64,7 @@
 				</div>
 			</div>
 			<div
-				class="card w-96 border border-secondary hover:bg-primary-content hover:bg-opacity-30 cursor-pointer"
+				class="card w-96 border border-neutral  hover:bg-primary-content  cursor-pointer"
 			>
 				<div class="card-body items-start">
 					<h2 class="card-title">Wirerent</h2>
@@ -75,7 +75,7 @@
 				</div>
 			</div>
 			<div
-				class="card w-96 border border-secondary hover:bg-primary-content hover:bg-opacity-30 cursor-pointer"
+				class="card w-96 border border-neutral  hover:bg-primary-content  cursor-pointer"
 			>
 				<div class="card-body items-start">
 					<h2 class="card-title">Rentaspace</h2>
@@ -88,7 +88,7 @@
 				</div>
 			</div>
 			<div
-				class="card w-96 border border-secondary hover:bg-primary-content hover:bg-opacity-30 cursor-pointer"
+				class="card w-96 border border-neutral hover:bg-primary-content  cursor-pointer"
 			>
 				<div class="card-body items-start">
 					<h2 class="card-title">Nerve Solutions</h2>
