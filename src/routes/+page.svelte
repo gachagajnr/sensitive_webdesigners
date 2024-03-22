@@ -319,7 +319,7 @@
 		<div class="py-8">
 			<a
 				href="/projects"
-				class="btn btn-secondary text-white hover:-translate-y-1 hover:bg-primary hover:text-secondary duration-150"
+				class="btn btn-secondary text-white  hover:btn-primary   "
 				>View Portfolio Projects</a
 			>
 		</div>

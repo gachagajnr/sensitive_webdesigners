@@ -101,5 +101,12 @@
 				</div>
 			</div>
 		</div>
+        <div class="grid py-8 justify-center items-center">
+                <a
+                    href="/focus"
+                    class="btn btn-secondary hover:btn-primary   "
+                    >Go to Our Focus</a
+                >
+            </div>
 	</div>
 </div>
