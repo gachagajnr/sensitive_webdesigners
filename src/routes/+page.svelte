@@ -9,10 +9,10 @@
 			 
 			<img src={Design} alt="Pollen"  class="max-w-xl lg:flex hidden"/>
 			<div class="text-center lg:text-center p-6">
-				<h1 class="text-4xl font-bold text-secondary">Welcome to Pollen Tech</h1>
+				<h1 class="text-4xl font-bold text-secondary">Welcome to Decided Technologies</h1>
 				<p class="p-6 text-xl text-pretty">
-					At Pollens Tech, we believe in the power of digital presence. We specialize in
-					crafting bespoke websites tailored to your business needs. With a focus on creativity,
+					We believe in the power of digital presence. We specialize in
+					crafting bespoke websites and mobile apps tailored to your business needs. With a focus on creativity,
 					functionality, and user experience, we transform your vision into a captivating online
 					reality.
 				</p>

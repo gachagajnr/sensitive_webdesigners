@@ -75,7 +75,7 @@
 					</p>
 					<p class="ml-2 font-thin">
 						<span class="text-info">Email:</span> Shoot us an email at
-						<span class="text-info">nervesolutions@gmail.com</span>, and we'll get back to you as
+						<span class="text-info">decidedtech@gmail.com</span>, and we'll get back to you as
 						soon as possible.
 					</p>
 					<p class="ml-2 font-thin">

@@ -6,26 +6,12 @@
 	<div class="navbar-start">
 		<div class="dropdown">
 			<div tabindex="0" role="button" class="btn btn-ghost lg:hidden">
-				<!-- <svg
-					xmlns="http://www.w3.org/2000/svg"
-					class="h-5 w-5"
-					fill="none"
-					viewBox="0 0 24 24"
-					stroke="currentColor"
-				>
-					<path
-						stroke-linecap="round"
-						stroke-linejoin="round"
-						stroke-width="2"
-						d="M4 6h16M4 12h8m-8 6h16"
-					/>
-				</svg> -->
-				<img src={Logo}  alt="logo" class="h-5 w-5" />
+				<img src={Logo} alt="logo" class=" h-auto w-auto" />
 			</div>
 			<!-- svelte-ignore a11y-no-noninteractive-tabindex -->
 			<ul
 				tabindex="0"
-				class="menu menu-sm dropdown-content mt-3 z-[1] p-2 shadow bg-base-100 rounded-box w-52"
+				class="menu menu-sm dropdown-content mt-3 z-[1] p-2 shadow bg-base-300 rounded-box w-52"
 			>
 				<li><a class="font-bold" href="/">About</a></li>
 				<li>
@@ -38,7 +24,7 @@
 			</ul>
 		</div>
 		<img src={Logo} alt="logo" class="h-10 w-10" />
-		<a href="/" class="btn btn-ghost text-xl text-secondary font-bold">Pollen Tech</a>
+		<a href="/" class="btn btn-ghost text-xl text-secondary font-bold">decidedtech</a>
 	</div>
 	<div class="navbar-center hidden lg:flex">
 		<ul class="menu menu-horizontal px-1">
