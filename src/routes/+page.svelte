@@ -17,8 +17,8 @@
 					reality.
 				</p>
 				<div class="flex flex-row justify-center gap-2">
-					<button class="btn btn-info">Get A Free Quote</button>
-					<button class="btn btn-secondary text-white">View Completed Projects</button>
+					<a href="/contact" class="btn btn-info">Get A Free Quote</a>
+					<a href="/projects" class="btn btn-secondary text-white">View Completed Projects</a>
 				</div>
 			</div>
 		</div>
