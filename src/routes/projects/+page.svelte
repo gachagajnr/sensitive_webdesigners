@@ -3,7 +3,7 @@
 		<div class="flex flex-col items-start justify-start   ">
 			<h1 class="text-4xl text-primary font-bold">Projects We've worked on</h1>
 			<p class="p-4  text-xl">
-				At Nerve Solutions, we take pride in the diverse range of projects we've had the privilege
+				At Pollen Solutions, we take pride in the diverse range of projects we've had the privilege
 				to work on. Here are a few examples of the impactful projects we've successfully delivered:
 			</p>
 		</div>
@@ -91,11 +91,11 @@
 				class="card w-96 border border-neutral hover:bg-primary-content  cursor-pointer"
 			>
 				<div class="card-body items-start">
-					<h2 class="card-title">Nerve Solutions</h2>
-					<p>Business Website for Nerve Solutions</p>
+					<h2 class="card-title">Pollen Solutions</h2>
+					<p>Business Website for Pollen Solutions</p>
 					<div class="card-actions">
 						<a href="https://nerve-webs.vercel.app/" class="font-semibold text-info">
-							Nerves Solutions
+							Pollen Solutions
 						</a>
 					</div>
 				</div>

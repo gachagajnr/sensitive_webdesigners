@@ -13,7 +13,7 @@
 	</div>
 	<div>
 		<div class="grid justify-start text-start">
-			<p class="text-lg text-secondary">Nerves Solutions</p>
+			<p class="text-lg text-secondary">Pollen Solutions</p>
 			<p class=" ">1st Floor Containers Hse</p>
 			<p class=" ">Kahawa Wendani</p>
 			<p class=" ">Nairobi Kenya</p>
@@ -109,7 +109,7 @@
 				/>
 			</svg>
 
-			<p class="join-item font-semibold">nervesolutions@gmail.com</p>
+			<p class="join-item font-semibold">pollensolutions@gmail.com</p>
 		</div>
 	</div>
 </div>

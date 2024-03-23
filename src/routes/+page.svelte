@@ -7,11 +7,11 @@
 	<div class="hero min-h-screen">
 		<div class="hero-content flex-col lg:flex-row-reverse">
 			 
-			<img src={Design} alt="Nerves"  class="max-w-xl lg:flex hidden"/>
+			<img src={Design} alt="Pollen"  class="max-w-xl lg:flex hidden"/>
 			<div class="text-center lg:text-center p-6">
-				<h1 class="text-4xl font-bold text-secondary">Welcome to Nerves Solutions</h1>
+				<h1 class="text-4xl font-bold text-secondary">Welcome to Pollen Solutions</h1>
 				<p class="p-6 text-xl text-pretty">
-					At Nerves Solutions, we believe in the power of digital presence. We specialize in
+					At Pollens Solutions, we believe in the power of digital presence. We specialize in
 					crafting bespoke websites tailored to your business needs. With a focus on creativity,
 					functionality, and user experience, we transform your vision into a captivating online
 					reality.
