@@ -2,7 +2,7 @@
 	import '../app.css';
 	import Header from '$lib/+Header.svelte';
 	import Footer from '$lib/+Footer.svelte';
-	import Logo from '$lib/images/logo.png';
+	import Logo from '$lib/images/pollen.png';
 </script>
 
 <Header />
@@ -13,7 +13,7 @@
 	</div>
 	<div>
 		<div class="grid justify-start text-start">
-			<p class="text-lg text-secondary">Pollen Solutions</p>
+			<p class="text-lg text-secondary">Pollen Tech</p>
 			<p class=" ">1st Floor Containers Hse</p>
 			<p class=" ">Kahawa Wendani</p>
 			<p class=" ">Nairobi Kenya</p>

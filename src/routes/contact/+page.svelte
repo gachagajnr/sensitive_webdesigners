@@ -1,11 +1,11 @@
 <div class="container mx-auto">
 	<div class="flex flex-col mt-16 justify-center gap-6">
 		<div class="">
-			<h1 class="font-bold text-4xl ">
+			<h1 class="font-bold text-4xl mx-4">
 				Let's Connect and Turn Your  Vision into Reality.
 			</h1>
 		</div>
-		<div class="  grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-4 justify-center p-4">
+		<div class="  grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-4 justify-center">
 			<div class="p-6">
 				<div class="ml-2 py-2 text-xl">
 					We're passionate about helping businesses thrive in the digital landscape. Whether you

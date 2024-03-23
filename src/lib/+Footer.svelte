@@ -1,5 +1,5 @@
 <script>
-	import Logo from './images/logo.png';
+	import Logo from './images/pollen.png';
 </script>
 <footer class="footer items-center p-4 bg-neutral text-neutral-content">
   <aside class="items-center grid-flow-col">
