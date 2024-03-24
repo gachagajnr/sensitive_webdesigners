@@ -6,9 +6,9 @@
 <div class="container mx-auto max-w-screen-xl text-center justify-center">
 	<div class="hero min-h-screen">
 		<div class="hero-content flex-col lg:flex-row-reverse">
-			<img src={Design} alt="Pollen" class="max-w-xl lg:flex hidden" />
+			<img src={Design} alt="decidedtech" class="max-w-xl lg:flex hidden" />
 			<div class="text-center lg:text-center p-6">
-				<h1 class="text-4xl font-bold text-secondary">Welcome to Decided Technologies</h1>
+				<h1 class="text-5xl font-bold text-secondary text-pretty">Welcome to <span class="text-primary">decidedtech</span> </h1>
 				<p class="p-6 text-xl text-pretty">
 					We believe in the power of digital presence. We specialize in crafting bespoke websites
 					and mobile apps tailored to your business needs. With a focus on creativity,
