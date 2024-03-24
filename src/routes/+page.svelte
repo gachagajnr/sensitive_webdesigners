@@ -3,16 +3,15 @@
 	import Design from '$lib/images/dren.png';
 </script>
 
-<div class="container mx-auto max-w-screen-xl  text-center justify-center">
+<div class="container mx-auto max-w-screen-xl text-center justify-center">
 	<div class="hero min-h-screen">
 		<div class="hero-content flex-col lg:flex-row-reverse">
-			 
-			<img src={Design} alt="Pollen"  class="max-w-xl lg:flex hidden"/>
+			<img src={Design} alt="Pollen" class="max-w-xl lg:flex hidden" />
 			<div class="text-center lg:text-center p-6">
 				<h1 class="text-4xl font-bold text-secondary">Welcome to Decided Technologies</h1>
 				<p class="p-6 text-xl text-pretty">
-					We believe in the power of digital presence. We specialize in
-					crafting bespoke websites and mobile apps tailored to your business needs. With a focus on creativity,
+					We believe in the power of digital presence. We specialize in crafting bespoke websites
+					and mobile apps tailored to your business needs. With a focus on creativity,
 					functionality, and user experience, we transform your vision into a captivating online
 					reality.
 				</p>
@@ -72,16 +71,17 @@
 	<div class="grid justify-center items-center mt-12">
 		<div class=" grid justify-center">
 			<h1 class="text-center text-4xl py-4 text-primary">How We Work</h1>
-			<div class="max-w-4xl">
-				<ul class="timeline timeline-vertical">
+			<div class="max-w-4xl mx-4">
+				<div class="timeline timeline-vertical">
 					<li>
 						<div class="timeline-start border border-info timeline-box">
 							<h1 class="text-xl text-secondary">Initial Consultation</h1>
-
-							We kick off every project with a thorough initial consultation. This is where we sit
-							down with you, preferably over a cup of tea, to truly understand your business, your
-							goals, and your challenges. We believe that listening is the key to delivering
-							tailored solutions that address your unique needs.
+							<p class=" ">
+								We kick off every project with a thorough initial consultation. This is where we sit
+								down with you, preferably over a cup of tea, to truly understand your business, your
+								goals, and your challenges. We believe that listening is the key to delivering
+								tailored solutions that address your unique needs.
+							</p>
 						</div>
 						<div class="timeline-middle">
 							<svg
@@ -200,7 +200,7 @@
 							>
 						</div>
 					</li>
-				</ul>
+				</div>
 			</div>
 		</div>
 		<div class=" mt-6 p-6">
@@ -212,7 +212,7 @@
 		</div>
 	</div>
 	<div class="divider divider-neutral"></div>
-	<div class="mt-6 grid justify-center items-center">
+	<div class="mx-auto mt-6 grid justify-center items-center">
 		<h1 class="text-center text-primary text-4xl">Our Focus</h1>
 		<div
 			class="  p-6 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 justify-center items-center gap-4"
@@ -300,7 +300,7 @@
 					<div class="card-actions justify-end">
 						<button class="btn btn-sm btn-outline">Get Quote</button>
 					</div>
-					<h2 class="card-title font-light text-secondary">Custom  Applications</h2>
+					<h2 class="card-title font-light text-secondary">Custom Applications</h2>
 				</div>
 			</div>
 
@@ -317,12 +317,9 @@
 			</div>
 		</div>
 		<div class="py-8">
-			<a
-				href="/projects"
-				class="btn btn-secondary text-white  hover:btn-primary   "
+			<a href="/projects" class="btn btn-secondary text-white hover:btn-primary"
 				>View Portfolio Projects</a
 			>
 		</div>
 	</div>
- 
 </div>
