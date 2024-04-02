@@ -17,8 +17,8 @@
 		<div class="flex flex-row flex-wrap justify-center p-6 gap-6">
 			<div class="card w-96 bg-base-300 text-primary p-2">
 				<div class="card-body">
-					<h2 class="card-title text-center text-info">Success</h2>
-					<p class="text-lg">
+					<h2 class="card-title text-center text-primary">A Focus on Success</h2>
+					<p class="text-secondary">
 						We measure our success by the success of our clients, and we are committed to providing
 						solutions that deliver tangible results and measurable outcomes. From increasing brand
 						awareness and driving website traffic to improving user engagement and boosting
@@ -29,8 +29,8 @@
 			</div>
 			<div class="card w-96 bg-base-300 p-2">
 				<div class="card-body">
-					<h2 class="card-title text-secondary">Partnership and Collaboration</h2>
-					<p class="text-lg">
+					<h2 class="card-title text-primary">Partnership and Collaboration</h2>
+					<p class="text-secondary">
 						We believe that collaboration is key to success. We work closely with our clients
 						throughout the entire project lifecycle, from initial concept and design to development,
 						implementation, and ongoing support. Our transparent and collaborative approach ensures
@@ -41,8 +41,8 @@
 			</div>
 			<div class="card w-96 bg-base-300 shadow-lg rounded-xl p-2">
 				<div class="card-body">
-					<h2 class="card-title text-info">Innovation and Creativity</h2>
-					<p class="text-lg">
+					<h2 class="card-title text-primary">Innovation and Creativity</h2>
+					<p class="text-secondary">
 						In the fast-paced world of digital technology, staying ahead of the curve is essential.
 						That's why we are constantly exploring new technologies, tools, and trends to innovate
 						and enhance our service offerings. Our team of skilled professionals is passionate about
@@ -53,7 +53,7 @@
 			</div>
 		</div>
 		<div class="grid py-8 justify-center items-center">
-			<a href="/projects" class="btn btn-secondary hover:btn-primary hover:text-secondary"
+			<a href="/projects" class="btn btn-info "
 				>View Portfolio Projects</a
 			>
 		</div>
