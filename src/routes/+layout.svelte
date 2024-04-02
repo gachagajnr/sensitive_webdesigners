@@ -7,23 +7,23 @@
 
 <Header />
 <slot />
- <div class="flex flex-row flex-wrap gap-6 bg-base-200 justify-center items-start p-6">
+ <div class="flex flex-row flex-wrap gap-6 bg-neutral  justify-center items-start p-6">
 	<div class="">
-		<img src={Logo}   alt="logo" class="h-24 w-24 object-cover " />
+		<img src={Logo}   alt="logo" class="h-20 w-20 object-cover " />
 	</div>
 	<div>
 		<div class="grid justify-start text-start">
-			<p class="text-lg text-secondary">decidedtech</p>
-			<p class=" ">1st Floor Containers Hse</p>
-			<p class=" ">Kahawa Wendani</p>
-			<p class=" ">Nairobi Kenya</p>
-			<p class=" ">+254-706-335-880</p>
+			<a href="/" class="text-lg text-accent font-bold">decidedtech</a>
+			<!-- <p class=" ">1st Floor</p> -->
+			<p class=" text-white font-semibold">Thika Rd</p>
+			<p class="text-white font-semibold ">Nairobi Kenya</p>
+			<p class=" text-white font-semibold">+254706-335-880</p>
 		</div>
 	</div>
 	<div class="flex flex-col gap-2">
 		<div class="join gap-3 cursor-pointer">
 			<svg
-				class="w-6 h-6 text-secondary"
+				class="w-6 h-6 text-info"
 				aria-hidden="true"
 				xmlns="http://www.w3.org/2000/svg"
 				width="24"
@@ -39,12 +39,12 @@
 				<path d="M7.2 8.809H4V19.5h3.2V8.809Z" />
 			</svg>
 
-			<p class="join-item font-semibold">Follow on LinkedIn</p>
+			<p class="join-item font-medium text-base-300">Follow on LinkedIn</p>
 		</div>
 
 		<div class="join gap-3 cursor-pointer">
 			<svg
-				class="w-6 h-6 text-secondary"
+				class="w-6 h-6 text-info"
 				aria-hidden="true"
 				xmlns="http://www.w3.org/2000/svg"
 				width="24"
@@ -59,12 +59,12 @@
 				/>
 			</svg>
 
-			<p class="join-item font-semibold">Follow on Facebook</p>
+			<p class="join-item font-medium text-base-300">Follow on Facebook</p>
 		</div>
 
 		<div class="join gap-3 cursor-pointer">
 			<svg
-				class="w-6 h-6 text-secondary"
+				class="w-6 h-6 text-info"
 				aria-hidden="true"
 				xmlns="http://www.w3.org/2000/svg"
 				fill="currentColor"
@@ -75,11 +75,11 @@
 					d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"
 				/>
 			</svg>
-			<p class="join-item font-semibold">Follow on Instagram</p>
+			<p class="join-item font-medium text-base-300">Follow on Instagram</p>
 		</div>
 		<div class="join gap-3 cursor-pointer">
 			<svg
-				class="w-6 h-6 join-item text-secondary"
+				class="w-6 h-6 join-item text-info"
 				aria-hidden="true"
 				xmlns="http://www.w3.org/2000/svg"
 				width="24"
@@ -91,12 +91,12 @@
 					d="M13.795 10.533 20.68 2h-3.073l-5.255 6.517L7.69 2H1l7.806 10.91L1.47 22h3.074l5.705-7.07L15.31 22H22l-8.205-11.467Zm-2.38 2.95L9.97 11.464 4.36 3.627h2.31l4.528 6.317 1.443 2.02 6.018 8.409h-2.31l-4.934-6.89Z"
 				/>
 			</svg>
-			<p class="join-item font-semibold">Follow on X</p>
+			<p class="join-item font-medium text-base-300">Follow on X</p>
 		</div>
 		<!-- <div class="divider divider-primary"></div> -->
 		<div class="join gap-3 cursor-pointer">
 			<svg
-				class="w-6 h-6 text-secondary"
+				class="w-6 h-6 text-info"
 				aria-hidden="true"
 				xmlns="http://www.w3.org/2000/svg"
 				width="24"
@@ -109,7 +109,7 @@
 				/>
 			</svg>
 
-			<p class="join-item font-semibold">decidedtech@gmail.com</p>
+			<p class="join-item font-medium text-base-300">decidedtech@gmail.com</p>
 		</div>
 	</div>
 </div>
