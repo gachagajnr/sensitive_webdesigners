@@ -8,17 +8,7 @@ export default {
 	plugins: [require('daisyui')],
 	daisyui: {
 		themes: [
-			'luxury',
-			'retro',
-			'cmyk',
-			'sunset',
-			'winter',
-			'nord',
-			'fantasy',
-			'autumn',
-			'corporate',
-			'business',
-			"emerald",
+			 
 			"dim"
 		]
 	}
