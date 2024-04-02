@@ -26,7 +26,7 @@
 	<div class="  grid justify-center bg-base-100 shadow-2xl rounded-lg p-12">
 		<div class="grid max-w-5xl text-center w-full justify-center gap-6">
 			<div class="py-2">
-				<h1 class="text-4xl font-light text-info">
+				<h1 class="text-4xl text-primary font-bold">
 					Passionate enthusiasts dedicated to delivering cutting-edge solutions for businesses
 					worldwide.
 				</h1>
@@ -34,7 +34,7 @@
 			<div class="flex flex-row flex-wrap gap-4 justify-center">
 				<div class="card w-80 bg-neutral text-neutral-content">
 					<div class="card-body items-center text-center">
-						<h2 class="card-title text-primary">How We Work</h2>
+						<h2 class="card-title text-accent">How We Work</h2>
 						<p class="text-secondary">
 							We prioritize understanding our clients' unique goals, challenges, and target
 							audience. By adopting a client-centric approach, we tailor our solutions to meet their
@@ -45,7 +45,7 @@
 
 				<div class="card w-80 bg-neutral text-neutral-content">
 					<div class="card-body items-center text-center">
-						<h2 class="card-title text-primary">Our Focus</h2>
+						<h2 class="card-title text-accent">Our Focus</h2>
 						<p class="text-secondary">
 							Our team of creative designers is committed to pushing the boundaries of web design.
 							We strive to create visually stunning websites that not only attract attention but
@@ -55,7 +55,7 @@
 				</div>
 				<div class="card w-80 bg-neutral text-neutral-content">
 					<div class="card-body items-center text-center">
-						<h2 class="card-title text-primary">Solutions That Deliver</h2>
+						<h2 class="card-title text-accent">Solutions That Deliver</h2>
 						<p class="text-secondary">
 							We believe that exceptional user experience is paramount to the success of any
 							website. Through intuitive navigation, seamless functionality, and engaging content,
@@ -70,12 +70,12 @@
 
 	<div class="grid justify-center items-center mt-12">
 		<div class=" grid justify-center">
-			<h1 class="text-center text-4xl py-4 text-primary">How We Work</h1>
+			<h1 class="text-center text-4xl py-4 text-secondary font-bold">How We Work</h1>
 			<div class="max-w-4xl mx-4">
 				<div class="timeline timeline-vertical">
 					<li>
 						<div class="timeline-start border border-info timeline-box">
-							<h1 class="text-xl text-secondary">Initial Consultation</h1>
+							<h1 class="text-2xl text-accent font-bold py-2 ">Initial Consultation</h1>
 							<p class=" ">
 								We kick off every project with a thorough initial consultation. This is where we sit
 								down with you, preferably over a cup of tea, to truly understand your business, your
@@ -114,7 +114,7 @@
 							>
 						</div>
 						<div class="timeline-end timeline-box border border-info">
-							<h1 class="text-xl text-secondary">Needs Accessment</h1>
+							<h1 class="text-2xl text-accent font-bold py-2">Needs Accessment</h1>
 
 							Once we have a solid understanding of your business and objectives, we conduct a
 							comprehensive needs assessment. This involves analyzing your current digital presence,
@@ -127,7 +127,7 @@
 					<li>
 						<hr class="bg-secondary" />
 						<div class="timeline-start border border-secondary timeline-box">
-							<h1 class="text-xl text-secondary">Planning & Preparation</h1>
+							<h1 class="text-2xl text-accent font-bold py-2">Planning & Preparation</h1>
 
 							Before diving into development, we invest time in meticulous planning and preparation.
 							This involves outlining project specifications, defining milestones, and assembling
@@ -166,7 +166,7 @@
 							>
 						</div>
 						<div class="timeline-end border border-accent timeline-box">
-							<h1 class="text-xl text-info">Agile Development</h1>
+							<h1 class="text-2xl text-accent font-bold py-2">Agile Development</h1>
 
 							We embrace agile development methodologies to ensure flexibility and adaptability
 							throughout the project lifecycle. Our iterative approach allows us to respond quickly
@@ -179,7 +179,7 @@
 					<li>
 						<hr class="bg-primary" />
 						<div class="timeline-start border border-primary timeline-box">
-							<h1 class="text-xl text-primary">Continuous Support</h1>
+							<h1 class="text-2xl text-accent font-bold py-2">Continuous Support</h1>
 
 							Our commitment to your success doesn't end with project delivery. We provide
 							continuous support and maintenance to ensure that your solution remains up-to-date,
@@ -212,48 +212,48 @@
 		</div>
 	</div>
 	<div class="divider divider-neutral"></div>
-	<div class="mx-auto mt-6 grid justify-center items-center">
-		<h1 class="text-center text-primary text-4xl">Our Focus</h1>
+	<div class=" mt-6 grid justify-center items-center">
+		<h1 class="text-center text-secondary font-bold text-4xl">Our Focus</h1>
 		<div
-			class="  p-6 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 justify-center items-center gap-4"
+			class="py-6 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 justify-center items-center gap-4"
 		>
 			<div
-				class="card w-96 bg-error shadow-md bg-opacity-15 cursor-pointer rounded-2xl hover:-translate-y-2 duration-150 hover:bg-accent-content"
+				class="card w-96 bg-error shadow-md bg-opacity-15 cursor-pointer rounded-2xl hover:-translate-y-2 duration-150 hover:bg-secondary-content"
 			>
 				<div class="card-body text-start">
 					<p class="">Android and IOS mobile applications for your business needs.</p>
 					<div class="card-actions justify-end">
 						<button class="btn btn-sm btn-outline">Get Quote</button>
 					</div>
-					<h2 class="card-title font-light text-secondary">Mobile Applications</h2>
+					<h2 class="card-title font-semibold text-primary">Mobile Applications</h2>
 				</div>
 			</div>
 			<div
-				class="card w-96 bg-error shadow-md bg-opacity-15 cursor-pointer rounded-2xl hover:-translate-y-2 duration-150 hover:bg-accent-content"
+				class="card w-96 bg-error shadow-md bg-opacity-15 cursor-pointer rounded-2xl hover:-translate-y-2 duration-150 hover:bg-secondary-content"
 			>
 				<div class="card-body text-start">
 					<p class="">Showcase your brand identity and establish a professional online presence.</p>
 					<div class="card-actions justify-end">
 						<button class="btn btn-sm btn-outline">Get Quote</button>
 					</div>
-					<h2 class="card-title font-light text-secondary">Corporate Websites</h2>
+					<h2 class="card-title font-semibold text-primary">Corporate Websites</h2>
 				</div>
 			</div>
 
 			<div
-				class="card w-96 bg-warning-content bg-opacity-15 cursor-pointer rounded-2xl hover:-translate-y-2 duration-150 hover:bg-accent-content"
+				class="card w-96 bg-warning-content bg-opacity-15 cursor-pointer rounded-2xl hover:-translate-y-2 duration-150 hover:bg-secondary-content"
 			>
 				<div class="card-body text-start">
 					<p class="">Elevate your online store with our custom e-commerce solutions.</p>
 					<div class="card-actions justify-end">
 						<button class="btn btn-sm btn-outline">Get Quote</button>
 					</div>
-					<h2 class="card-title font-light text-secondary">E-commerce Platforms</h2>
+					<h2 class="card-title font-semibold text-primary">E-commerce Platforms</h2>
 				</div>
 			</div>
 
 			<div
-				class="card w-96 bg-primary-content bg-opacity-55 cursor-pointer rounded-2xl hover:-translate-y-2 duration-150 hover:bg-accent-content"
+				class="card w-96 bg-primary-content bg-opacity-55 cursor-pointer rounded-2xl hover:-translate-y-2 duration-150 hover:bg-secondary-content"
 			>
 				<div class="card-body text-start">
 					<p class="">
@@ -262,36 +262,36 @@
 					<div class="card-actions justify-end">
 						<button class="btn btn-sm btn-outline">Get Quote</button>
 					</div>
-					<h2 class="card-title font-light text-secondary">Portfolio Websites</h2>
+					<h2 class="card-title font-semibold text-primary">Portfolio Websites</h2>
 				</div>
 			</div>
 
 			<div
-				class="card w-96 bg-info-content bg-opacity-15 cursor-pointer rounded-2xl hover:-translate-y-2 duration-150 hover:bg-accent-content"
+				class="card w-96 bg-info-content bg-opacity-15 cursor-pointer rounded-2xl hover:-translate-y-2 duration-150 hover:bg-secondary-content"
 			>
 				<div class="card-body text-start">
 					<p class="">Empower your team to manage and update your website effortlessly.</p>
 					<div class="card-actions justify-end">
 						<button class="btn btn-sm btn-outline">Get Quote</button>
 					</div>
-					<h2 class="card-title font-light text-secondary">Content Management Systems</h2>
+					<h2 class="card-title font-semibold text-primary">Content Management Systems</h2>
 				</div>
 			</div>
 
 			<div
-				class="card w-96 bg-accent bg-opacity-15 cursor-pointer rounded-2xl hover:-translate-y-2 duration-150 hover:bg-accent-content"
+				class="card w-96 bg-accent bg-opacity-15 cursor-pointer rounded-2xl hover:-translate-y-2 duration-150 hover:bg-secondary-content"
 			>
 				<div class="card-body text-start">
 					<p class="">Share your insights, stories, and expertise with the world.</p>
 					<div class="card-actions justify-end">
 						<button class="btn btn-sm btn-outline">Get Quote</button>
 					</div>
-					<h2 class="card-title font-light text-secondary">Blog & Magazine Websites</h2>
+					<h2 class="card-title font-semibold text-primary">Blog & Magazine Websites</h2>
 				</div>
 			</div>
 
 			<div
-				class="card w-96 bg-secondary-content bg-opacity-15 cursor-pointer rounded-2xl hover:-translate-y-2 duration-150 hover:bg-accent-content"
+				class="card w-96 bg-secondary-content bg-opacity-15 cursor-pointer rounded-2xl hover:-translate-y-2 duration-150 hover:bg-secondary-content"
 			>
 				<div class="card-body text-start">
 					<p class="">
@@ -300,19 +300,19 @@
 					<div class="card-actions justify-end">
 						<button class="btn btn-sm btn-outline">Get Quote</button>
 					</div>
-					<h2 class="card-title font-light text-secondary">Custom Applications</h2>
+					<h2 class="card-title font-semibold text-primary">Custom Applications</h2>
 				</div>
 			</div>
 
 			<div
-				class="card w-96 bg-success bg-opacity-15 cursor-pointer rounded-2xl hover:-translate-y-2 duration-150 hover:bg-accent-content"
+				class="card w-96 bg-success bg-opacity-15 cursor-pointer rounded-2xl hover:-translate-y-2 duration-150 hover:bg-secondary-content"
 			>
 				<div class="card-body text-start">
 					<p class="">Drive targeted traffic and generate leads with our custom landing pages.</p>
 					<div class="card-actions justify-end">
 						<button class="btn btn-sm btn-outline">Get Quote</button>
 					</div>
-					<h2 class="card-title font-light text-secondary">Landing Pages & Microsites</h2>
+					<h2 class="card-title font-semibold text-primary">Landing Pages & Microsites</h2>
 				</div>
 			</div>
 		</div>

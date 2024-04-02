@@ -1,7 +1,7 @@
 <div class="container mx-auto">
 	<div class="flex flex-col mt-16 justify-center gap-6">
 		<div class="">
-			<h1 class="font-bold text-4xl mx-4">
+			<h1 class="font-bold text-4xl mx-4 text-primary">
 				Let's Connect and Turn Your  Vision into Reality.
 			</h1>
 		</div>
@@ -16,7 +16,7 @@
 					<p class="text-secondary text-xl font-bold p-1">Why Contact Us?</p>
 					<p class="ml-2 font-thin join gap-2">
 						<svg
-							class="w-6 h-6 text-gray-800 dark:text-white join-item"
+							class="w-6 h-6 text-primary   join-item"
 							aria-hidden="true"
 							xmlns="http://www.w3.org/2000/svg"
 							width="24"
@@ -34,7 +34,7 @@
 					</p>
 					<p class="ml-2 font-thin join gap-2">
 						<svg
-							class="w-6 h-6 text-gray-800 dark:text-white join-item"
+							class="w-6 h-6 text-primary   join-item"
 							aria-hidden="true"
 							xmlns="http://www.w3.org/2000/svg"
 							width="24"
@@ -52,7 +52,7 @@
 					</p>
 					<p class="ml-2 font-thin join gap-2">
 						<svg
-							class="w-6 h-6 text-gray-800 dark:text-white join-item"
+							class="w-6 h-6 text-primary   join-item"
 							aria-hidden="true"
 							xmlns="http://www.w3.org/2000/svg"
 							width="24"
@@ -69,26 +69,26 @@
 						<span class="join-item">Transparent Communication </span>
 					</p>
 					<p class="text-secondary text-xl font-bold p-1">How to Reach Us</p>
-					<p class="ml-2 font-thin">
+					<p class="ml-2 font-semibold">
 						<span class="text-info">Phone:</span> Give us a call at
-						<span class="text-info">0706335880</span> to speak directly with a member of our team.
+						<span class="text-accent">0706335880</span> to speak directly with a member of our team.
 					</p>
-					<p class="ml-2 font-thin">
+					<p class="ml-2 font-semibold">
 						<span class="text-info">Email:</span> Shoot us an email at
-						<span class="text-info">decidedtech@gmail.com</span>, and we'll get back to you as
+						<span class="text-accent">decidedtech@gmail.com</span>, and we'll get back to you as
 						soon as possible.
 					</p>
-					<p class="ml-2 font-thin">
+					<p class="ml-2 font-semibold">
 						<span class="text-info"> Contact Form </span> Fill out the contact form with your details
 						and inquiry, and we'll reach out to you promptly.
 					</p>
 				</div>
 			</div>
-			<div class="flex justify-center">
-				<form method="POST" class="card w-3/4 bg-base-300 p-6  justify-center gap-2">
-					<h1 class="font-bold py-1 text-2xl text-secondary">Leave a Message</h1>
+			<div class="flex justify-center py-4">
+				<form method="POST" class="card w-3/4 bg-base-content p-6  justify-center gap-2">
+					<h1 class="font-bold py-1 text-2xl text-accent">Leave a Message</h1>
 					<label class="text-sm text-start ">
-						<span class="font-semibold text-sm">Full Name </span>
+						<span class="font-semibold text-sm text-secondary">Full Name </span>
 						<input
 							name="name"
 							type="name"
@@ -98,7 +98,7 @@
 						/>
 					</label>
 					<label class="text-sm text-start">
-						<span class="font-semibold text-sm">Email address </span>
+						<span class="font-semibold text-sm text-secondary">Email address </span>
 
 						<input
 							name="email"
@@ -109,7 +109,7 @@
 						/>
 					</label>
 					<label class="text-sm text-start">
-						<span class="font-semibold text-sm">Phone </span>
+						<span class="font-semibold text-sm text-secondary">Phone </span>
 						<input
 							name="phone"
 							type="number"
@@ -118,7 +118,7 @@
 						/>
 					</label>
 					<label class="text-sm text-start">
-						<span class="font-semibold text-sm">Subject </span>
+						<span class="font-semibold text-sm text-secondary">Subject </span>
 
 						<input
 							name="subject"
@@ -129,7 +129,7 @@
 						/>
 					</label>
 					<label class="text-sm text-start">
-						<span class="font-semibold text-sm">Message </span>
+						<span class="font-semibold text-sm text-secondary">Message </span>
 
 						<textarea
 							name="message"
@@ -139,7 +139,7 @@
 							placeholder="Message"
 						/>
 					</label>
-					<button class="btn btn-neutral w-full">Submit</button>
+					<button class="btn btn-accent ">Submit</button>
 				</form>
 			</div>
 		</div>

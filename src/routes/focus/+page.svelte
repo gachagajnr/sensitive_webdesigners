@@ -9,15 +9,15 @@
 			</h1>
 		</div>
  
-		<h2 class="py-3  text-3xl font-bold">
+		<h2 class="py-3  text-3xl text-secondary font-bold">
 			We'll pave the way for your
 			success in the digital landscape.
 		</h2>
 
 		<div class="flex flex-row flex-wrap justify-center p-6 gap-6">
-			<div class="card w-96 bg-base-300 text-primary p-2">
+			<div class="card w-96 bg-neutral text-primary p-2">
 				<div class="card-body">
-					<h2 class="card-title text-center text-primary">A Focus on Success</h2>
+					<h2 class="card-title text-center text-accent">A Focus on Success</h2>
 					<p class="text-secondary">
 						We measure our success by the success of our clients, and we are committed to providing
 						solutions that deliver tangible results and measurable outcomes. From increasing brand
@@ -27,9 +27,9 @@
 					</p>
 				</div>
 			</div>
-			<div class="card w-96 bg-base-300 p-2">
+			<div class="card w-96 bg-neutral p-2">
 				<div class="card-body">
-					<h2 class="card-title text-primary">Partnership and Collaboration</h2>
+					<h2 class="card-title text-accent">Partnership and Collaboration</h2>
 					<p class="text-secondary">
 						We believe that collaboration is key to success. We work closely with our clients
 						throughout the entire project lifecycle, from initial concept and design to development,
@@ -39,9 +39,9 @@
 					</p>
 				</div>
 			</div>
-			<div class="card w-96 bg-base-300 shadow-lg rounded-xl p-2">
+			<div class="card w-96 bg-neutral shadow-lg rounded-xl p-2">
 				<div class="card-body">
-					<h2 class="card-title text-primary">Innovation and Creativity</h2>
+					<h2 class="card-title text-accent">Innovation and Creativity</h2>
 					<p class="text-secondary">
 						In the fast-paced world of digital technology, staying ahead of the curve is essential.
 						That's why we are constantly exploring new technologies, tools, and trends to innovate
@@ -53,8 +53,8 @@
 			</div>
 		</div>
 		<div class="grid py-8 justify-center items-center">
-			<a href="/projects" class="btn btn-info "
-				>View Portfolio Projects</a
+			<a href="/projects" class="btn btn-secondary "
+				>Our Portfolio</a
 			>
 		</div>
 	</div>

@@ -7,9 +7,6 @@ export default {
 	},
 	plugins: [require('daisyui')],
 	daisyui: {
-		themes: [
-			 
-			"dim"
-		]
+		themes: ['fantasy', 'business', 'dim']
 	}
 };
