@@ -2,8 +2,8 @@
 	<div class="flex flex-col mx-4 mt-16 justify-center   gap-4">
 		<div class="flex flex-col items-start justify-start   ">
 			<h1 class="text-4xl text-primary font-bold">Projects We've worked on</h1>
-			<p class="p-4  text-xl">
-				At Pollen Solutions, we take pride in the diverse range of projects we've had the privilege
+			<p class="p-6  text-2xl">
+				At Decided Technologies, we take pride in the diverse range of projects we've had the privilege
 				to work on. Here are a few examples of the impactful projects we've successfully delivered:
 			</p>
 		</div>
