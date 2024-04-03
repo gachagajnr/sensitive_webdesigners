@@ -25,7 +25,7 @@
 
 	<div class="  grid justify-center bg-base-100 shadow-2xl rounded-lg p-12">
 		<div class="grid max-w-5xl text-center w-full justify-center gap-6">
-			<div class="py-2">
+			<div class="py-4">
 				<h1 class="text-4xl text-primary font-bold">
 					Passionate enthusiasts dedicated to delivering cutting-edge solutions for businesses
 					worldwide.
