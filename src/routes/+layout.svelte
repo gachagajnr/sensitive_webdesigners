@@ -17,7 +17,7 @@
 			<!-- <p class=" ">1st Floor</p> -->
 			<p class=" text-white font-semibold">Thika Rd</p>
 			<p class="text-white font-semibold ">Nairobi Kenya</p>
-			<p class=" text-white font-semibold">+254706-335-880</p>
+			<p class=" text-white font-semibold">+2547-06-335-880</p>
 		</div>
 	</div>
 	<div class="flex flex-col gap-2">
